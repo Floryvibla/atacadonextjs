@@ -1,0 +1,22 @@
+[
+  {
+    "iconSrc": "/assets/images/other/benefits/1.png",
+    "name": "ENVIO GRÁTIS",
+    "description": "Para os pedidos acima de R$ 99,00"
+  },
+  {
+    "iconSrc": "/assets/images/other/benefits/2.png",
+    "name": "ENTREGA NO TEMPO",
+    "description": "Entrega para todos Brasil"
+  },
+  {
+    "iconSrc": "/assets/images/other/benefits/3.png",
+    "name": "PAGAMENTO SEGURO",
+    "description": "Pagamento 100% seguro"
+  },
+  {
+    "iconSrc": "/assets/images/other/benefits/4.png",
+    "name": "SUPORTE 24/7",
+    "description": "Suporte dedicado"
+  }
+]

@@ -1,0 +1,48 @@
+<<<<<<< HEAD
+{
+  "information": [
+    { "name": "Quem somos", "src": "/about" },
+    { "name": "Politica de privacidade", "src": "/contact" },
+    { "name": "Termo de uso", "src": "/contact" },
+    { "name": "Politica de devolução", "src": "/contact" },
+    { "name": "Contato", "src": "/contact" }
+  ],
+  "account": [
+    { "name": "Pedidos", "src": "/contact" },
+    { "name": "Downloads", "src": "/contact" },
+    { "name": "Endereços", "src": "/contact" },
+    { "name": "Detalhes da conta", "src": "/contact" },
+    { "name": "Logout", "src": "/contact" }
+  ]
+}
+=======
+[
+  {
+    "title": "INFOMATION",
+    "items": [
+      { "title": "About us", "href": "/other/about-us" },
+      { "title": "Check out", "href": "/shop/checkout" },
+      { "title": "Contact", "href": "/other/contact-us" },
+      { "title": "Service", "href": "#" }
+    ]
+  },
+  {
+    "title": "MY ACCOUNT",
+    "items": [
+      { "title": "My account", "href": "#" },
+      { "title": "Contact", "href": "/other/contact-us" },
+      { "title": "Shop Cart", "href": "/shop/cart" },
+      { "title": "Tracking Order", "href": "#" }
+    ]
+  },
+  {
+    "title": "QUICK SHOP",
+    "items": [
+      { "title": "About us", "href": "/other/about-us" },
+      { "title": "Check out", "href": "/shop/checkout" },
+      { "title": "Contact", "href": "/other/contact-us" },
+      { "title": "Service", "href": "#" }
+    ]
+  }
+]
+>>>>>>> dev01

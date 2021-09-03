@@ -1,0 +1,10 @@
+[
+  { "name": "Óculos", "value": "oculos" },
+  { "name": "Lentes", "value": "lentes" },
+  { "name": "Blocos", "value": "blocos" },
+  { "name": "Acessórios", "value": "acessorios" },
+  { "name": "Insumos", "value": "insumos" },
+  { "name": "Fornituras", "value": "fornituras" },
+  { "name": "Ferramentas", "value": "ferramentas" },
+  { "name": "Equipamentos", "value": "equipamentos" }
+]

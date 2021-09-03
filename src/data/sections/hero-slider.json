@@ -1,0 +1,23 @@
+{
+  "one": [
+    {
+      "background": "/assets/images/hero-slider/one/bg-1.png",
+      "subTitle": "Preços Exclusios para",
+      "title": "LOJISTA",
+      "price": {
+        "main": "14",
+        "unit": "pakage"
+      }
+    }
+  ],
+  "four": [
+    {
+      "image": "/assets/images/hero-slider/four/1.png",
+      "background": "/assets/images/hero-slider/four/bg-1.png"
+    },
+    {
+      "image": "/assets/images/hero-slider/four/1.png",
+      "background": "/assets/images/hero-slider/four/bg-2.png"
+    }
+  ]
+}
