@@ -1,21 +1,3 @@
-<<<<<<< HEAD
-{
-  "information": [
-    { "name": "Quem somos", "src": "/about" },
-    { "name": "Politica de privacidade", "src": "/contact" },
-    { "name": "Termo de uso", "src": "/contact" },
-    { "name": "Politica de devolução", "src": "/contact" },
-    { "name": "Contato", "src": "/contact" }
-  ],
-  "account": [
-    { "name": "Pedidos", "src": "/contact" },
-    { "name": "Downloads", "src": "/contact" },
-    { "name": "Endereços", "src": "/contact" },
-    { "name": "Detalhes da conta", "src": "/contact" },
-    { "name": "Logout", "src": "/contact" }
-  ]
-}
-=======
 [
   {
     "title": "INFOMATION",
@@ -45,4 +27,3 @@
     ]
   }
 ]
->>>>>>> dev01
