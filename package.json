@@ -1,40 +1,11 @@
 {
-<<<<<<< HEAD
-  "name": "atacadootico",
-=======
-  "name": "ogami-react",
->>>>>>> dev01
+  "name": "atacado-optico",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start -p $PORT",
-<<<<<<< HEAD
-    "heroku-postbuild": "npm run build"
-  },
-  "dependencies": {
-    "@netlify/plugin-nextjs": "^3.8.0",
-    "@zeit/next-less": "^1.0.1",
-    "@zeit/next-sass": "^1.0.1",
-    "antd": "^4.5.1",
-    "classnames": "^2.2.6",
-    "less": "^3.12.2",
-    "next": "^11.1.0",
-    "react": "16.13.1",
-    "react-countdown": "^2.2.1",
-    "react-dom": "16.13.1",
-    "react-mailchimp-subscribe": "^2.1.0",
-    "react-redux": "^7.2.1",
-    "react-slick": "^0.27.3",
-    "redux": "^4.0.5",
-    "redux-devtools-extension": "^2.13.8",
-    "redux-persist": "^6.0.0",
-    "redux-thunk": "^2.3.0",
-    "sass": "^1.26.10",
-    "slick-carousel": "^1.8.1",
-    "uuid": "^8.3.0"
-=======
     "heroku-postbuild": "npm run build",
     "server": "json-server --watch database.json --port 6969"
   },
@@ -63,6 +34,5 @@
   },
   "devDependencies": {
     "json-server": "^0.16.3"
->>>>>>> dev01
   }
 }
